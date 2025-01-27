@@ -12,7 +12,7 @@ This text highlights the significance of biosensors in various fields. It emphas
 A project repository dedicated to biosensors and ESP32 microcontrollers could be a valuable resource for beginners. It could include:
 
 ### Tutorials: Step-by-step guides on building basic biosensors using ESP32.
-### Code Examples: Code libraries and snippets for interfacing different types of sensors with ESP32.
+### Code Examples: Code libraries and snippets for interfacing different types of sensors with ESP32. Starting from Getting Started Examples.
 ### Project Ideas: A list of inspiring projects that beginners can undertake using biosensors and ESP32.
 ### Learning Resources: Links to online courses, articles, and documentation related to biosensors and ESP32.
 ### Community Forum: A platform for users to ask questions, share their projects, and collaborate.
