@@ -1,0 +1,9 @@
+TFT Pin	ESP32 Pin
+VCC	3.3V or 5V (depending on the TFT display's requirements)
+GND	GND
+SCK	GPIO18
+SDA	GPIO23
+A0	GPIO2
+RES	GPIO4
+CS	GPIO15
+LED	GPIO32 (for PWM control) or 3.3V for constant on
